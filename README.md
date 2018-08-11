@@ -11,4 +11,4 @@ Can be achieved by declaring the appropriate pre-processor constant value in the
 
 The hardware used is an arduino uno and a joystick whose underlying implementation is a 2 axis potentiometer.
 
-[Manual mode video](https://www.youtube.com/watch?v=Gwn9X6mq8wU)
+### [Manual mode video](https://www.youtube.com/watch?v=Gwn9X6mq8wU)
