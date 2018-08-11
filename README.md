@@ -12,4 +12,4 @@ Can be achieved by declaring the appropriate pre-processor constant value in the
 The hardware used is an arduino uno and with a joystick for command input whose underlying implementation is a 2 axis potentiometer. The position acquitison is done using a Pixy camera and the tracking is setup using the accompanying PixyMon software.
 
 ### [Manual mode video](https://www.youtube.com/watch?v=Gwn9X6mq8wU)
-### Automatic mode video(https://www.youtube.com/watch?v=DCVG3v2UdTw)
+### [Automatic mode video](https://www.youtube.com/watch?v=DCVG3v2UdTw)
