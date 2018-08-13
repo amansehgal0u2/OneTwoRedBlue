@@ -1,8 +1,4 @@
-//
-// University of Pennsylvania
-// ESE 505 - 2015C
-// Project 2
-// OneTwoRedBlue.ino
+// Aman Sehgal, 2016
 //
 // Headers contain device drivers
 //
