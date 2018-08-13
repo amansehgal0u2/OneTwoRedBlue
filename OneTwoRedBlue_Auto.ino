@@ -2,7 +2,7 @@
 //
 // Headers contain device drivers
 //
-#define AUTO 1
+#define AUTO 1 // set to 0 for manual mode.
 
 #include <SPI.h>  
 #include <Pixy.h>
